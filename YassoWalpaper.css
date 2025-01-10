@@ -1,0 +1,61 @@
+button {
+    background-color: #335f4f; /* Green */
+    border: none;
+    color: rgb(255, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  p{
+color: blue;
+  }
+ #fb{
+  position:absolute;
+  left:50px;
+  top: 70px;
+  width: 1.5cm;
+  }
+  body{ 
+    background-attachment: scroll;
+    background-size: 38cm;
+background-image: url("https://static.vecteezy.com/system/resources/previews/006/852/804/non_2x/abstract-blue-background-simple-design-for-your-website-free-vector.jpg");
+  }
+  #yt{
+position: absolute;
+left:150px;
+  top: 70px;
+  width:1.2cm;
+  }
+  p{
+    color: rgb(228, 228, 228);
+  }
+  h1{
+    color: rgb(188, 209, 0);
+  }
+.cafee{
+  border: solid;
+  background-color: rgba(139, 94, 27, 0.568);
+  width: 200px;
+  position: absolute;
+  left: 10%;
+  bottom:80px;
+}
+.clothes{
+  border: solid;
+  background-color: rgba(255, 74, 74, 0.568);
+  width: 200px;
+  position: absolute;
+  left: 45%;
+  bottom:80px;
+}
+.yass{
+  border: solid;
+  background-color: rgba(219, 255, 16, 0.568);
+  width: 200px;
+  position: absolute;
+  left: 80%;
+  bottom:80px;
+}
+
